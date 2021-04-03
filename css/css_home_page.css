@@ -1,0 +1,58 @@
+	.marginKhusus1{
+                margin-top:8%;
+            }
+            .buttonColor1{
+                background-color:#f28439;
+            }
+            .bgcolorOrange{
+                background-color:#f28439;
+            }
+            .colorIjo{
+                color:#009c4d;
+            }
+            .bgcolorIjo{
+                background-color:#009c4d;
+            }
+
+th {
+  background-color: #009c4d;
+  color: white;
+}
+            .tabs{
+                padding-top: 1%;
+                padding-right: 0%;
+                padding-bottom: 4%;
+                padding-left: 0px;
+            }
+            .footerBar{
+                border-right-style:dashed;
+                border-width: 1px;
+                border-color: #cccccc;
+            }
+
+            .selengkapny:link {
+                text-decoration: none;
+            }
+
+            .selengkapny:visited {
+                text-decoration: none;
+            }
+
+            .selengkapny:hover {
+                text-decoration: none;
+            }
+
+            .selengkapny:active {
+                text-decoration: none;
+            }
+
+	.fontHargaPromo{
+		color:gray;
+	}
+	
+	.border-upMenuBar{
+		border-top-style:solid;
+		border-bottom-style:solid;
+		border-color: #f28439 white #009c4d white;
+		border-width: 1px 0px 2px 0px ;
+	}
